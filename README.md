@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying computer and systems engineering at the Universidad Tecnológica de Pereira.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about developing web solutions using Django and other libraries..
 - 🎈 &nbsp; Competing in programming marathons at my university.
 
