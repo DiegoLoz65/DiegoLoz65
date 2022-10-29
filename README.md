@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying computer and systems engineering at the Universidad Tecnológica de Pereira.
-- 🌱 &nbsp; Learning more about developing web solutions using Django and other libraries..
+- 🌱 &nbsp; Learning more about developing web solutions using Django and other libraries.
 - 🎈 &nbsp; Competing in programming marathons at my university.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
